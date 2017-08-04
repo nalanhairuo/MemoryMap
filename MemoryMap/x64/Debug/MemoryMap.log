@@ -1,0 +1,8 @@
+﻿  test.cpp
+  MemoryMapWriter.cpp
+  MemoryMapReader.cpp
+d:\soucecode\projects\memorymap\memorymap\memorymapreader.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+d:\soucecode\projects\memorymap\memorymap\test.cpp(27): warning C4715: “WriteTest”: 不是所有的控件路径都返回值
+  MemoryMap.vcxproj -> D:\soucecode\Projects\MemoryMap\x64\Debug\MemoryMap.exe
+  MemoryMap.vcxproj -> D:\soucecode\Projects\MemoryMap\x64\Debug\MemoryMap.pdb (Full PDB)
